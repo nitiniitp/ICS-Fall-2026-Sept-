@@ -12,4 +12,4 @@ You can access the Nand2Tetris course materials through the official website:
 
 You can watch the related video lecture on YouTube:
 
-[Watch the Video Lecture on YouTube](https://www.youtube.com/watch?v=LqirVc5SlW0)
+[Watch the Video Lecture on YouTube]([https://www.youtube.com/watch?v=LqirVc5SlW0](https://youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI&si=-tUs9Sbe4EFj43q3))
