@@ -13,3 +13,10 @@ You can access the official Nand2Tetris course materials through the website:
 You can watch the related video lectures on YouTube:
 
 [Watch the Video Lectures on YouTube](https://youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI&si=-tUs9Sbe4EFj43q3)
+
+
+
+AI Chatbot – ICS
+You can access the AI Chatbot for ICS here:
+
+[Open the AI Chatbot – ICS](https://ljwmg.dothome.co.kr/singh.html?utm_source=chatgpt.com)
