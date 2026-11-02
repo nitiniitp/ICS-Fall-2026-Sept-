@@ -20,3 +20,7 @@ AI Chatbot – ICS
 You can access the AI Chatbot for ICS here:
 
 [Open the AI Chatbot – ICS](https://ljwmg.dothome.co.kr/singh.html?utm_source=chatgpt.com)
+
+ICS Projects 
+
+https://www.youtube.com/@amithkumars.dsaiml
